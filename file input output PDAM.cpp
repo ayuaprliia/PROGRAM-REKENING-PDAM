@@ -55,7 +55,7 @@ int main()
         printf("\t\t||                                                                      ||\n");
         printf("\t\t||----------------------------------------------------------------------||\n");
         printf("\t\t|| [1] kembali ke menu utama                                            ||\n");
-        printf("\t\t|| [2] lihat bukti pembayaran                                           ||\n");
+        printf("\t\t|| [2] lihat Tagihan                                                    ||\n");
         printf("\t\t||----------------------------------------------------------------------||\n");
         printf("\t\t==========================================================================\n");
         printf("\n\t\t Masukkan pilihan Anda : ");
